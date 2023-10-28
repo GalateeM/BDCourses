@@ -1,0 +1,175 @@
+{
+  "recettes": [
+    {
+      "id": 0,
+      "nom": "Pates carbonara",
+      "ingredients": {"Spaghettis":"140g", "Lardons":"0.5", "Crème":"0.5", "Emmental":"0.5"}
+    },
+    {
+      "id": 1,
+      "nom": "Lasagnes",
+      "ingredients": {"Farine":"70g", "Beurre":"70g", "Lait":"500g", "Pates lasagne":"0.166667", "Steak végé":"0.33333", "Sauce tomates cuisinées":"0.1666667", "Emmental":"0.1666667"}
+    },
+    {
+      "id": 2,
+      "nom": "Pomme de terre knackis omelette",
+      "ingredients": {"Pommes de terre (moyennes-petites)":"4", "Oeuf":"2", "Knackis":"4", "Emmental":"0.5"}
+    },
+    {
+      "id": 3,
+      "nom": "Bouchées jambon",
+      "ingredients": {"Bouchées (nombre de boite de 6)":"0.25","Farine":"45g", "Beurre":"45g", "Lait":"325g", "Oeuf":"2", "Jambon":"4", "Champi":"0.25"}
+    },    {
+      "id": 4,
+      "nom": "Bouchées mozza",
+      "ingredients": {"Bouchées (nombre de boite de 6)":"0.25","Farine":"45g", "Beurre":"45g", "Lait":"325g", "Oeuf":"2", "Mozza":"0.25", "Champi":"0.25"}
+    },
+    {
+      "id": 5,
+      "nom": "Risotto basique",
+      "ingredients": {"Oignon":"0.5", "Champignons":"0.5", "Riz":"145g", "Bouillon":"0.5", "Crème liquide épaisse":"0.25", "Parmesan":"0.25"}
+    },
+    {
+      "id": 6,
+      "nom": "Gratin de pates jambon",
+      "ingredients": {"Maccheroni":"65g", "Jambon":"1", "Crème liquide":"0.5", "Emmental":"0.5"}
+    },
+    {
+      "id": 7,
+      "nom": "Gratin de pates végé",
+      "ingredients": {"Maccheroni":"100g","Champignons":"0.5", "Crème liquide":"0.5", "Emmental":"0.5"}
+    },
+    {
+      "id": 8,
+      "nom": "Gratin de Raviolis",
+      "ingredients": {"Paquet de raviolis":"0.5", "Crème liquide":"0.5","Emmental":"0.5"}
+    },
+    {
+      "id": 9,
+      "nom": "Oeufs Cassolette",
+      "ingredients": {"Baguette de pain":"0.5","Oignon":"0.5","Oeuf":"2","Crème fraiche":"1 cuillère", "Moutarde":"1 cuillère"}
+    },
+    {
+      "id": 10,
+      "nom": "Tartines poulet",
+      "ingredients": {"Pain tartine":"0.25","Poulet":"150g","Crème fraiche":"0.25","Emmental":"0.25"}
+    },
+    {
+      "id": 11,
+      "nom": "Tartines 3 fromages",
+      "ingredients": {"Pain tartine":"0.25","Chèvre":"0.25","Bleu":"0.25","Emmental":"0.25"}
+    },
+    {
+      "id": 12,
+      "nom": "Tartines avocat oeuf",
+      "ingredients": {"Pain tartine":"0.25","Avocat":"0.5","Oeufs":"2"}
+    },
+    {
+      "id": 13,
+      "nom": "Tartines boursin",
+      "ingredients": {"Pain tartine":"0.25","Boursin":"0.5","Jambon":"1"}
+    },
+    {
+      "id": 14,
+      "nom": "Cannellonis",
+      "ingredients": {"Cannellonis":"3","Épinards":"37.5g","Ricotta":"62.5g","Emmental":"0.25","Beurre":"10g","Farine":"10g","Lait":"7.5cl","Pulpe tomate (gnocchis)":"0.25"}
+    },
+    {
+      "id": 15,
+      "nom": "Galettes sarasin (tomates oignon oeufs)",
+      "ingredients": {"Comté":"50g","Oignon":"0.25","Tomates":"0.5","Oeufs":"1.5"}
+    },
+    {
+      "id": 16,
+      "nom": "Pasta légumes",
+      "ingredients": {"Courgettes":"0.25","Tomates cerises":"0.25","Oignon":"0.25","Carottes":"0.75","Bouillon":"0.5","Spaghettis":"80g","Parmesan":"0.25"}
+    },
+    {
+      "id": 17,
+      "nom": "One pot pasta",
+      "ingredients": {"Crème liquide épaisse":"0.25","Tomates concentrées (tube)":"1.5 cuillère","Mozza":"0.5","Bouillon":"0.5","Pâtes tricolores":"80g"}
+    },
+    {
+      "id": 18,
+      "nom": "Samoussas chèvre poulet",
+      "ingredients": {"Fromage frais de chèvre":"37.5g","Poulet":"37.5g","Beurre":"0.25","Oignon":"0.25","Feuilles de bricks":"1"}
+    },
+    {
+      "id": 19,
+      "nom": "Pâtes courgettes lardons",
+      "ingredients": {"Lardons":"0.25","Courgettes (grosse)":"0.25","Spaghettis":"87,5g","Bouillon":"0.25","Crème fraiche":"0.25","Curry":"0.25"}
+    },
+    {
+      "id": 20,
+      "nom": "Pâtes marry me",
+      "ingredients": {"Poulet":"75g","Pâtes":"65g","Bouillon":"0.25","Tomates cerises":"0.25","Épinards (sachet)":"0.25","Crème fleurette":"5cl","Parmesan":"0.25"}
+    },
+    {
+      "id": 21,
+      "nom": "Risotto carbonara",
+      "ingredients": {"Oignon":"0.5","Lardons":"0.5","Bouillon":"0.5","Riz":"65g","Parmesan":"0.25"}
+    },
+    {
+      "id": 22,
+      "nom": "Pates au bleu",
+      "ingredients": {"Spaghettis":"140g", "Bleu":"0.5"}
+    },
+    {
+      "id": 23,
+      "nom": "Tresse fourée",
+      "ingredients": {"Pate feuilletée":"0.25", "Oignon":"0.25", "Poulet":"75g", "Champignons (petite conserve)":"0.25", "Boursin":"0.25", "Crème fraiche":"0.25","Ail en poude":"0.25","Graines de sésame":"0.25","Oeuf":"0.25"}
+    },
+    {
+      "id": 24,
+      "nom": "Gnocchis tartiflette",
+      "ingredients": {"Oignon":"0.5", "Lardons allumette":"0.5", "Gnocchis":"0.5", "Crème liquide":"0.5", "Parmesan":"0.25"}
+    },
+    {
+      "id": 25,
+      "nom": "Tagliatelles carotte",
+      "ingredients": {"Carottes":"0.75","Oignon":"0.25", "Crème liquide":"0.25", "Emmental":"0.25", "Tagliatelles barquette":"0.25", "Ail en poude":"0.25"}
+    },
+    {
+      "id": 26,
+      "nom": "Pizza patate douce",
+      "ingredients": {"Patate douce":"0.5", "Echalotes":"0.5", "Oeuf":"0.5", "Maizena":"0.5cas", "Thym":"0.25", "Mozza":"0.25", "Emmental":"0.25", "Conserve coulis tomate":"0.25", "Champignons (petite conserve)":"0.25"}
+    },
+    {
+      "id": 27,
+      "nom": "Soupe champignons",
+      "ingredients": {"Champignons de paris":"75g", "Oignon":"0.25","Bouillon":"0.25", "Lait":"37.5ml", "Farine":"5.25g", "Crème liquide":"50g"}
+    }
+  ],
+  "taches": [
+    {
+      "id": 3,
+      "nom": "Se lever",
+      "etat": "terminée",
+      "memo": "Dès que le réveil sonne et ne pas se laisser absorber par mon téléphone portable"
+    },
+    {
+      "id": 4,
+      "nom": "Boire un petit verre d'eau",
+      "etat": "terminée",
+      "memo": "Pour vous hydrater"
+    },
+    {
+      "id": 5,
+      "nom": "Faire quelques étirements",
+      "etat": "en cours",
+      "memo": "Liste des exercices à complèter ici..."
+    },
+    {
+      "id": 8,
+      "nom": "Partir paisiblement pour l'IUT",
+      "etat": "en cours",
+      "memo": "Sauf le W.E. ;-)"
+    },
+    {
+      "id": 10,
+      "nom": "Tout est ok",
+      "etat": "à faire",
+      "memo": "???"
+    }
+  ]
+}
