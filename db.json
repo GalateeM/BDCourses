@@ -143,11 +143,11 @@
   "courses": [
     {
       "id":"midi",
-      "listeRepas":{"24":1}
+      "listeRepas":{"Gnocchis tartiflette":1}
     },
     {
       "id":"soir",
-      "listeRepas":{"27":2}
+      "listeRepas":{"Soupe champignons":2}
     }
 
   ],
