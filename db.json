@@ -140,6 +140,17 @@
       "ingredients": {"Champignons de paris":"75g", "Oignon":"0.25","Bouillon":"0.25", "Lait":"37.5ml", "Farine":"5.25g", "Crème liquide":"50g"}
     }
   ],
+  "courses": [
+    {
+      "id":"midi",
+      "listeRepas":{"24":1}
+    },
+    {
+      "id":"soir",
+      "listeRepas":{"27":2}
+    }
+
+  ],
   "taches": [
     {
       "id": 3,
